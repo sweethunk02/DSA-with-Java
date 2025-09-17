@@ -9,6 +9,7 @@ public class Character_pattern {
                 ch++;
             }
             System.out.println();
+            
         }
     }
 }
